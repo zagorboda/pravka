@@ -1,3 +1,1 @@
-# pravka
-Testing site on Bootstrap
-http://find-exp.epizy.com/Pravka/
+Web-site created using on Bootstrap and PHP
